@@ -1,0 +1,52 @@
+h1{
+	color: black;
+	text-align:center;
+	font-size: 999%;
+	
+}
+body{
+	background: url("fond4.png")no-repeat center center ;
+	background-size:cover;
+	color: black;
+
+}
+h2{
+	text-align: center;
+	color: white;
+	font-size: 300%;
+    
+}
+p{
+	text-align:center;
+	color: white;
+    opacity: 0.6;
+
+}
+h3{
+	text-align:center;
+    color:white;
+    opacity: 0.9;
+}
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	background-color:black;
+	overflow:hidden;
+	
+
+}
+li{
+	float:left;
+}
+li a {
+	color:white;
+	padding:20px;
+	text-decoration:none;
+	display:block;
+	
+}
+li a:hover{
+	background-color:rgb(5, 26, 82);
+
+}
